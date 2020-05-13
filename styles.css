@@ -1,0 +1,23 @@
+#game {
+  margin-left: 100px;
+  height: 400px;
+  width: 400px;
+  background: #009eff;
+  position: relative;
+}
+
+#boy {
+  height: 25px;
+  width: 25px;
+  background: #465e17;
+  border-radius: 50%;
+  position: absolute;
+  color: white;
+}
+
+#box {
+  height: 25px;
+  width: 25px;
+  background: saddlebrown;
+  position: absolute;
+}
